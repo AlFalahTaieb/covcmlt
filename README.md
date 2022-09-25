@@ -16,3 +16,8 @@ ______________________________________________________________________________/\
  ```
 
  </div>
+
+
+
+## wifi.sh
+Wifi Viewer + VPN cheker + password sharer through QR code.
