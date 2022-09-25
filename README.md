@@ -21,3 +21,9 @@ ______________________________________________________________________________/\
 
 ## wifi.sh
 Wifi Viewer + VPN cheker + password sharer through QR code.
+
+## vim.sh
+Set up vim with all the plugins.
+
+## docker.sh
+Check docker containers status.
