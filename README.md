@@ -27,3 +27,6 @@ Set up vim with all the plugins.
 
 ## docker.sh
 Check docker containers status.
+
+## gray.sh
+Turn your display color to Grayscale.
