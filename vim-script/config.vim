@@ -22,6 +22,7 @@ Plug 'crusoexia/vim-monokai'
 Plug 'arcticicestudio/nord-vim'
 Plug 'mhartington/oceanic-next'
 Plug 'wuelnerdotexe/vim-enfocado'
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 "Plug 'dracula/vim', { 'as': 'dracula' }
 "Plug 'https://github.com/sainnhe/everforest.git'
 "Plug 'NLKNguyen/papercolor-theme'
@@ -97,7 +98,7 @@ Plug 'junegunn/fzf.vim'
 """"""""""""""
 "Syntax Check"
 """"""""""""""
-Plug 'https://github.com/vim-syntastic/syntastic.git'
+Plug 'dense-analysis/ale'
 """""""""""
 "Alignment"
 """""""""""
