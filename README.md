@@ -41,6 +41,6 @@ Turn your display color to Grayscale.
 
 Will do various calculation with pourcentage.
 
-## dns-check.sh
+## dns-check.sh
 
 [Check dns-check/README.md](dns-check/README.md)
