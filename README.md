@@ -20,21 +20,27 @@ ______________________________________________________________________________/\
 
 
 ## wifi.sh
+
 Wifi Viewer + Get VPN Information + password sharer through QR code.
 
 ## vim.sh
+
 Set up vim with all the plugins.
 
 [Check  vim-script/README.md](vim-script/README.md)
 
 ## docker.sh
+
 Check docker containers status.
 
 ## gray.sh
+
 Turn your display color to Grayscale.
 
 ## pourcentage.sh
+
 Will do various calculation with pourcentage.
 
 ## dns-check.sh
+
 [Check dns-check/README.md](dns-check/README.md)
