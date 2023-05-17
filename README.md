@@ -44,3 +44,13 @@ Will do various calculation with pourcentage.
 ## dns-check.sh
 
 [Check dns-check/README.md](dns-check/README.md)
+
+
+## salary.sh
+
+Track your monthly Budget.
+
+## gym.sh
+
+Track your Gym Session.
+
