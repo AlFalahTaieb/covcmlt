@@ -54,3 +54,7 @@ Track your monthly Budget.
 
 Track your Gym Session.
 
+
+## sub.sh
+
+Add Subtitles on the same folder to a video ( mkv/avi )
