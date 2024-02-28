@@ -58,3 +58,7 @@ Track your Gym Session.
 ## sub.sh
 
 Add Subtitles on the same folder to a video ( mkv/avi )
+
+## duration.sh
+
+Get you the duration of videos (mkv,avi,mp4) with the name inside all folders (help me to choose movies under 90 minutes to watch)

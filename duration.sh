@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+find . -type f \( -name "*.mp4" -o -name "*.mkv" -o -name "*.avi" \) -exec sh -c 'duration=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$1" | cut -d "." -f 1); if [ "$duration" -lt 5400 ]; then echo "$1 - Duration: $(printf "%02d:%02d:%02d" $(($duration/3600)) $((($duration%3600)/60)) $(($duration%60)))"; fi' sh {} \;
